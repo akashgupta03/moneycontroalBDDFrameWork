@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="moneycontrol-bdd-automation.main" target="1.8" />
+      <module name="moneycontrol-bdd-automation.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
