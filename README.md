@@ -10,7 +10,6 @@ Please develop the scripts in Selenium .
 
 ![alt text](https://github.com/akashgupta03/moneycontroalBDDFrameWork/blob/master/src/test/resources/image/Screenshot%202020-04-02%20at%201.09.41%20PM.png)
 
-
 Step 1: Open Facebook login page. “www.facebook.com”
  Step 2: In Login page , Birthday portion is there in the format of DD-MM-YYYY. In that
 
